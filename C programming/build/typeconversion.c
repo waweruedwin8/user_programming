@@ -1,9 +1,12 @@
 #include <stdio.h>
-
+// this is about datatype conversion
 int main ()
 {
-    int x = 4 / 2 + 6 * 5 -1;
-    printf("%d", x);
+    char a = '5';
+    int b = 9;
+    int sum = a + b ;
+    
+    printf("%d \n", sum);
     return 0;
 
-}
+    }
