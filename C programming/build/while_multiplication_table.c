@@ -12,7 +12,7 @@ int main()
 
     while (count >= 1)
     {
-        int product = number * count ;
+        int product = number * count ;9
         printf("%d * %d = %d\n",number,count ,product);
         count--;
     }
