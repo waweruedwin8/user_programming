@@ -1,0 +1,2 @@
+city = "Nairobi"
+print (city)
