@@ -3,7 +3,7 @@ number1 = int(input("Enter the first no: "))
 number2 = int(input("Enter the second no: "))
 sum = number1 + number2
 product = number1 * number2
-mean = sum // 2
+mean = sum / 2
 
 print(f" the sum of numbers: {sum}")
 print(f" the product of numbers: {product}")
